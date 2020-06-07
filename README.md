@@ -1,2 +1,4 @@
 # Reseau-Social
-Codé en HTML et CSS, j'ai développé ce site responsive afin de m'entraîner au développement web.
+Création de la partie front-end d'un réseau social responsive, en autodidacte.
+
+• HTML CSS
